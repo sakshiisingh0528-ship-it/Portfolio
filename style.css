@@ -1,0 +1,71 @@
+/* Global */
+body {
+    background: #eef4ff; /* Soft modern blue background */
+    font-family: "Poppins", sans-serif;
+}
+
+/* Hero Section */
+.hero-section {
+    padding: 80px 0;
+}
+
+/* Rounded Image */
+.profile-img {
+    width: 330px;
+    height: 330px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 6px solid #ffffff;
+    box-shadow: 0px 0px 25px rgba(0,0,0,0.15);
+}
+
+/* About Section */
+#about {
+    padding: 70px 0;
+}
+
+#about h2 {
+    font-size: 36px;
+    color: #333;
+}
+
+.about-text {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+}
+
+/* Skills */
+#skills {
+    padding: 70px 0;
+}
+
+.skill-box {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    margin-bottom: 30px;
+}
+
+.skill-box h4 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.skill-box p {
+    margin: 5px 0;
+    color: #555;
+}
+
+/* Contact Section */
+#contact {
+    background: #f4f7ff;
+    padding: 80px 0;
+}
+
+#contact a {
+    color: #0056d6;
+    text-decoration: none;
+}
